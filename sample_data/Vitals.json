@@ -1,1 +1,31 @@
+[
+  {
+    "resident_id": "R001",
+    "recorded_at": "2024-01-15T08:00:00",
+    "heart_rate": 78,
+    "temperature": 36.7,
+    "blood_pressure": "120/80"
+  },
+  {
+    "resident_id": "R001",
+    "recorded_at": "2024-01-15T20:00:00",
+    "heart_rate": 82,
+    "temperature": 36.9,
+    "blood_pressure": "122/81"
+  },
+  {
+    "resident_id": "R002",
+    "recorded_at": "2024-02-06T09:00:00",
+    "heart_rate": 90,
+    "temperature": 37.2,
+    "blood_pressure": "135/88"
+  },
+  {
+    "resident_id": "R003",
+    "recorded_at": "2024-03-04T07:30:00",
+    "heart_rate": 70,
+    "temperature": 36.4,
+    "blood_pressure": "118/79"
+  }
+]
 
