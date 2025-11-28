@@ -81,7 +81,7 @@ Azure Key Vault
 
 Azure FHIR Server
 
-Security & Governance
+### -Security & Governance
 Includes:
 
 Encryption at rest & in transit
