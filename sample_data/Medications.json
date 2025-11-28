@@ -1,1 +1,39 @@
+[
+  {
+    "resident_id": "R001",
+    "medication_name": "Lisinopril",
+    "dosage": "10mg",
+    "route": "Oral",
+    "frequency": "Daily",
+    "start_date": "2024-01-10",
+    "end_date": null
+  },
+  {
+    "resident_id": "R002",
+    "medication_name": "Metformin",
+    "dosage": "500mg",
+    "route": "Oral",
+    "frequency": "Twice daily",
+    "start_date": "2024-02-05",
+    "end_date": null
+  },
+  {
+    "resident_id": "R003",
+    "medication_name": "Atorvastatin",
+    "dosage": "20mg",
+    "route": "Oral",
+    "frequency": "Nightly",
+    "start_date": "2024-03-01",
+    "end_date": null
+  },
+  {
+    "resident_id": "R001",
+    "medication_name": "Amlodipine",
+    "dosage": "5mg",
+    "route": "Oral",
+    "frequency": "Daily",
+    "start_date": "2024-01-12",
+    "end_date": "2024-02-15"
+  }
+]
 
