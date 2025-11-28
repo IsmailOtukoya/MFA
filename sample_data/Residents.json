@@ -1,1 +1,30 @@
+[
+  {
+    "resident_id": "R001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": "1942-05-10",
+    "gender": "Male",
+    "room_number": "A101",
+    "admission_date": "2024-01-12"
+  },
+  {
+    "resident_id": "R002",
+    "first_name": "Mary",
+    "last_name": "Smith",
+    "date_of_birth": "1939-11-21",
+    "gender": "Female",
+    "room_number": "A102",
+    "admission_date": "2024-02-05"
+  },
+  {
+    "resident_id": "R003",
+    "first_name": "David",
+    "last_name": "Brown",
+    "date_of_birth": "1945-09-03",
+    "gender": "Male",
+    "room_number": "B201",
+    "admission_date": "2024-03-02"
+  }
+]
 
